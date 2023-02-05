@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn3.fileup.to/cache/plugins/filepreviewer/258676/c12ac93eba7ffe97968aad21758f872e776e74ab75f58e55fe9649f4e1b098ed/1100x800_cropped.jpg)
 <h1 align="center">Hi 👋, I'm Resa Auliana Risyan</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" rc="https://cdn3.fileup.to/cache/plugins/filepreviewer/258705/bd60bb342c2e6cf6ce33e49b3533a1d61bbb4cd7c70213e556355133eaf8aa56/1100x800_cropped.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn3.fileup.to/cache/plugins/filepreviewer/258705/bd60bb342c2e6cf6ce33e49b3533a1d61bbb4cd7c70213e556355133eaf8aa56/1100x800_cropped.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resarisyan&label=Profile%20views&color=0e75b6&style=flat" alt="resarisyan" /> </p>
 
