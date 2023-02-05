@@ -1,11 +1,9 @@
-[![MasterHead](https://cdn3.fileup.to/cache/plugins/filepreviewer/258676/c12ac93eba7ffe97968aad21758f872e776e74ab75f58e55fe9649f4e1b098ed/1100x800_cropped.jpg)]
+![MasterHead](https://cdn3.fileup.to/cache/plugins/filepreviewer/258676/c12ac93eba7ffe97968aad21758f872e776e74ab75f58e55fe9649f4e1b098ed/1100x800_cropped.jpg)
 <h1 align="center">Hi 👋, I'm Resa Auliana Risyan</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3.fileup.to/cache/plugins/filepreviewer/258666/205e130d4e77bf73f3ec7ba5a0330475c548acdb62d7e729173f4b56578e90ee/1100x800_cropped.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resarisyan&label=Profile%20views&color=0e75b6&style=flat" alt="resarisyan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resarisyan" alt="resarisyan" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -34,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resarisyan&show_icons=true&locale=en" alt="resarisyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resarisyan&" alt="resarisyan" /></p>
-
