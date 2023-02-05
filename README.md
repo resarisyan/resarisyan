@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.monitorteknologi.com/](https://www.monitorteknologi.com/)
 
-- 💬 Ask me about **Laravel, Java Spring, MEARN**
+- 💬 Ask me about **Laravel, Java Spring, MERN**
 
 - 📫 How to reach me **resarisyan77@gmail.com**
 
