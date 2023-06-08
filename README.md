@@ -1,4 +1,4 @@
-![MasterHead](https://cdn3.fileup.to/cache/plugins/filepreviewer/258676/c12ac93eba7ffe97968aad21758f872e776e74ab75f58e55fe9649f4e1b098ed/1100x800_cropped.jpg)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Resa Auliana Risyan</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn3.fileup.to/cache/plugins/filepreviewer/258666/205e130d4e77bf73f3ec7ba5a0330475c548acdb62d7e729173f4b56578e90ee/1100x800_cropped.gif" />
