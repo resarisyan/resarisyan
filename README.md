@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://www.monitorteknologi.com/](https://www.monitorteknologi.com/)
+- 📝 I regularly write articles on [https://www.jagatsiber.com/](https://www.jagatsiber.com/)
 
 - 💬 Ask me about **Laravel, Java Spring, MERN**
 
